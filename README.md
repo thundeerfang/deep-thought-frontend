@@ -13,7 +13,7 @@ This landing page serves as a responsive interface tailored for a mobile applica
 
 ## Launch Steps
 1. Ensure you have Visual Studio Code or any text editor of your choice installed on your system.
-2. Clone this repository to your local machine using `git clone https://github.com/yourusername/batch-system-uifry.git`.
+2. Clone this repository to your local machine using `git clone https://github.com/yourusername/deep-thought-frontend.git`.
 3. Navigate to the project directory using the command line.
 4. Install the Live Server extension in Visual Studio Code or any other similar extension in your preferred text editor.
 5. Open the project folder in Visual Studio Code or your preferred text editor.
